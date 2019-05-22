@@ -1,2 +1,2 @@
-origin
-$ 
+git remote add origin https://github.com/airportyh/simple-input.git
+$ git push -u origin master
