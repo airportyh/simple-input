@@ -1,4 +1,4 @@
-# Simple Prompt
+# Simple Input
 
 A prompt library for node.js that *is* simple.
 
