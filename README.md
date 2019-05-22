@@ -21,5 +21,10 @@ But you can also use the promise style as the function
 returns a promise:
 
 ```js
+const prompt = require("simple-prompt");
 
+prompt("What is your name?")
+    .then((name) => {
+        
+    })
 ```
