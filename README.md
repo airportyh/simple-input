@@ -1,3 +1,3 @@
 # Simple Prompt
 
-A 
+A prompt
