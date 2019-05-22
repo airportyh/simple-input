@@ -12,6 +12,6 @@ const prompt = require("simple-prompt");
 async function main() {
     const input = await prompt("What is your name?");
 
-    console.log(`You are doing ${input}`);
+    console.log(`Hello, ${name}!`);
 }
 ```
