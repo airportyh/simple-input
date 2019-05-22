@@ -1,5 +1,5 @@
 {
-  "name": "simple-prompt",
+  "name": "simple-input",
   "version": "1.0.0",
   "description": "A prompt library for node.js that *is* simple.",
   "main": "simple-prompt.js",
