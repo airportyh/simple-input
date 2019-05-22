@@ -7,8 +7,7 @@ module.exports = function prompt(message) {
     });
 
     rl.question(message + " ", (answer) => {
-    // TODO: Log the answer in a database
-    console.log(`Thank you for your valuable feedback: ${answer}`);
+    
 
     rl.close();
     });
