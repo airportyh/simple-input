@@ -1,6 +1,6 @@
 const readline = require('readline');
 
-module.exports = function prompt(message) {
+module.exports = function input(message) {
     return new Promise((accept) => {
         const rl = readline.createInterface({
             input: process.stdin,
