@@ -11,5 +11,4 @@ module.exports = function prompt(message) {
             rl.close();
         });
     });
-    
 }
