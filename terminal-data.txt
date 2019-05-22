@@ -1,4 +1,1 @@
-To https://github.com/airportyh/simple-input.git
- * [new branch]      master -> master
-Branch 'master' set up to track remote branch 'master' from 'origin'.
-$ 
+git push
