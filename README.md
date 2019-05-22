@@ -15,5 +15,5 @@ async function main() {
     console.log(`Hello, ${name}!`);
 }
 
-main().catch(err => console.err)
+main().catch(err => console.error())
 ```
