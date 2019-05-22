@@ -6,7 +6,7 @@ module.exports = function prompt(message) {
         output: process.stdout
     });
 
-    rl.question('What do you think of Node.js? ', (answer) => {
+    rl.question(message + " ", (answer) => {
     // TODO: Log the answer in a database
     console.log(`Thank you for your valuable feedback: ${answer}`);
 
