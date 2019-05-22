@@ -1,2 +1,1 @@
-git remote add origin https://github.com/airportyh/simple-prompt.git
-$ git push -u origin master
+
