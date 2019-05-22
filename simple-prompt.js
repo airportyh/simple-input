@@ -7,8 +7,6 @@ module.exports = function prompt(message) {
     });
 
     rl.question(message + " ", (answer) => {
-    
-
         rl.close();
     });
 }
