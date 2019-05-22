@@ -2,8 +2,8 @@ const readline = require('readline');
 
 module.exports = function prompt(message) {
     const rl = readline.createInterface({
-    input: process.stdin,
-    output: process.stdout
+        input: process.stdin,
+        output: process.stdout
     });
 
     rl.question('What do you think of Node.js? ', (answer) => {
