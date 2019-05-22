@@ -4,7 +4,7 @@ A prompt library for node.js that *is* simple.
 
 ## Usage
 
-The recommended use
+The recommended usage 
 ```js
 const prompt = require("simple-prompt");
 
