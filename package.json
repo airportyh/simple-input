@@ -2,7 +2,7 @@
   "name": "simple-input",
   "version": "1.0.0",
   "description": "A prompt library for node.js that *is* simple.",
-  "main": "simple-prompt.js",
+  "main": "simple-input.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
