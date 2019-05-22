@@ -1,1 +1,3 @@
-remote: Resolving deltas:   0% (0/5)   [Kremote: Resolving deltas:  80% (4/5)   [Kremote: Resolving deltas: 100% (5/5)   [Kremote: Resolving deltas: 100% (5/5), completed with 2 local objects.[K
+To https://github.com/airportyh/simple-input.git
+   8499201..e3b0c8f  master -> master
+$ 
