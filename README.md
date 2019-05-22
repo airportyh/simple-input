@@ -7,7 +7,7 @@ A prompt library for node.js that *is* simple.
 The recommended usage is with async/await syntax:
 
 ```js
-const prompt = require("simple-prompt");
+const prompt = require("simple-input");
 
 async function main() {
     const name = await prompt("What is your name?");
