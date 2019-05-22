@@ -10,6 +10,8 @@ The recommended usage is with async/await syntax:
 const prompt = require("simple-prompt");
 
 async function main() {
-    const input = await prompt(")
+    const input = await prompt("How are you doing?");
+
+    console.log(")
 }
 ```
