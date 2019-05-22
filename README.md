@@ -26,5 +26,8 @@ const prompt = require("simple-prompt");
 prompt("What is your name?")
     .then((name) => {
         console.log(`Hello, ${name}!`);
+    })
+    .catch(err => {
+        console.error(err.message);
     });
 ```
