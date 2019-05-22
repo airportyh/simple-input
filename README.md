@@ -1,6 +1,6 @@
 # Simple Input
 
-A input/prompt library for node.js that *is* simple.
+An input/prompt library for node.js that *is* simple.
 
 ## Usage
 
