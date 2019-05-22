@@ -4,7 +4,7 @@ A prompt library for node.js that *is* simple.
 
 ## Usage
 
-The recommended usage is with async/await synth
+The recommended usage is with async/await 
 ```js
 const prompt = require("simple-prompt");
 
