@@ -5,5 +5,5 @@ A prompt library for node.js that *is* simple.
 ## Usage
 
 ```js
-const 
+const prompt = require("simple-prompt")
 ```
