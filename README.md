@@ -17,4 +17,6 @@ async function main() {
 main().catch(err => console.error(err.message));
 ```
 
-But you can also use the promise style
+But you can also use the promise style as the function
+returns a promise:
+
