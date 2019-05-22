@@ -1,3 +1,3 @@
 # Simple Prompt
 
-A prompt library for node.js that is simple.
+A prompt library for node.js that *is* simple.
