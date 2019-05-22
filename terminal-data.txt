@@ -1,1 +1,23 @@
-
+[37;40mnpm[0m [0m[34;40mnotice[0m[35m[0m 
+[0m[37;40mnpm[0m [0m[34;40mnotice[0m[35m[0m 📦  simple-prompt@1.0.0
+[0m[37;40mnpm[0m [0m[34;40mnotice[0m [0m[35m=== Tarball Contents ===[0m 
+[0m[37;40mnpm[0m [0m[34;40mnotice[0m[35m[0m 281B package.json     
+[0m[37;40mnpm[0m [0m[34;40mnotice[0m[35m[0m 632B README.md        
+[0m[37;40mnpm[0m [0m[34;40mnotice[0m[35m[0m 374B simple-prompt.js 
+[0m[37;40mnpm[0m [0m[34;40mnotice[0m[35m[0m 2B   terminal-data.txt
+[0m[37;40mnpm[0m [0m[34;40mnotice[0m [0m[35m=== Tarball Details ===[0m 
+[0m[37;40mnpm[0m [0m[34;40mnotice[0m[35m[0m name:          simple-prompt                           
+[0m[37;40mnpm[0m [0m[34;40mnotice[0m[35m[0m version:       1.0.0                                   
+[0m[37;40mnpm[0m [0m[34;40mnotice[0m[35m[0m package size:  789 B                                   
+[0m[37;40mnpm[0m [0m[34;40mnotice[0m[35m[0m unpacked size: 1.3 kB                                  
+[0m[37;40mnpm[0m [0m[34;40mnotice[0m[35m[0m shasum:        b7d37c116bd5f31cc295799f76887f5c810a3626
+[0m[37;40mnpm[0m [0m[34;40mnotice[0m[35m[0m integrity:     sha512-agbg/fGsUgN3G[...]JlCvKLPDtokiw==
+[0m[37;40mnpm[0m [0m[34;40mnotice[0m[35m[0m total files:   4                                       
+[0m[37;40mnpm[0m [0m[34;40mnotice[0m[35m[0m 
+[0m[?25l⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠦ publish:simple-prompt@1.0.0: [7msill[0m [35mpublish[0m uploading /var/folder[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠹ publish:simple-prompt@1.0.0: [7msill[0m [35mpublish[0m uploading /var/folder[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠹ publish:simple-prompt@1.0.0: [7msill[0m [35mpublish[0m uploading /var/folder[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠹ publish:simple-prompt@1.0.0: [7msill[0m [35mpublish[0m uploading /var/folder[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠹ publish:simple-prompt@1.0.0: [7msill[0m [35mpublish[0m uploading /var/folder[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠹ publish:simple-prompt@1.0.0: [7msill[0m [35mpublish[0m uploading /var/folder[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠹ publish:simple-prompt@1.0.0: [7msill[0m [35mpublish[0m uploading /var/folder[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠹ publish:simple-prompt@1.0.0: [7msill[0m [35mpublish[0m uploading /var/folder[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠹ publish:simple-prompt@1.0.0: [7msill[0m [35mpublish[0m uploading /var/folder[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠹ publish:simple-prompt@1.0.0: [7msill[0m [35mpublish[0m uploading /var/folder[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠹ publish:simple-prompt@1.0.0: [7msill[0m [35mpublish[0m uploading /var/folder[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠹ publish:simple-prompt@1.0.0: [7msill[0m [35mpublish[0m uploading /var/folder[0m[K⸨[90m░░░░░░░░░░░░░░░░░░[0m⸩ ⠹ publish:simple-prompt@1.0.0: [7msill[0m [35mpublish[0m uploading /var/folder[0m[K[K[?25h[37;40mnpm[0m [0m[31;40mERR![0m [0m[35mpublish[0m Failed PUT 403
+[0m[37;40mnpm[0m [0m[31;40mERR![0m [0m[35mcode[0m E403
+[0m[37;40mnpm[0m [0m[31;40mERR![0m[35m[0m You do not have permission to publish "simple-prompt". Are you logged in as the correct user? : simple-prompt
+[0m
+[37;40mnpm[0m [0m[31;40mERR![0m[35m[0m A complete log of this run can be found in:
+[0m[37;40mnpm[0m [0m[31;40mERR![0m[35m[0m     /Users/airportyh/.npm/_logs/2019-05-22T18_44_43_659Z-debug.log
+[0m$ 
